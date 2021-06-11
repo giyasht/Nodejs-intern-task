@@ -1,5 +1,5 @@
 ## Nodejs-intern-task
-It is a simple blogging site using CRUD operations.
+It is a site where users can perform CRUD operations on blogs and can also search blogs by title. You can also delete current user bu clicking delete user button.
 
 ## To run it on your local Machine
 
